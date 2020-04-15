@@ -1,0 +1,6 @@
+C:\Users\Andres Cordoba\Documents\Development\ProgrammingConcepts\OOP\ClassesAndMethods\ClassesAndMethods\bin\Debug\ClassesAndMethods.exe.config
+C:\Users\Andres Cordoba\Documents\Development\ProgrammingConcepts\OOP\ClassesAndMethods\ClassesAndMethods\bin\Debug\ClassesAndMethods.exe
+C:\Users\Andres Cordoba\Documents\Development\ProgrammingConcepts\OOP\ClassesAndMethods\ClassesAndMethods\bin\Debug\ClassesAndMethods.pdb
+C:\Users\Andres Cordoba\Documents\Development\ProgrammingConcepts\OOP\ClassesAndMethods\ClassesAndMethods\obj\Debug\ClassesAndMethods.csprojAssemblyReference.cache
+C:\Users\Andres Cordoba\Documents\Development\ProgrammingConcepts\OOP\ClassesAndMethods\ClassesAndMethods\obj\Debug\ClassesAndMethods.exe
+C:\Users\Andres Cordoba\Documents\Development\ProgrammingConcepts\OOP\ClassesAndMethods\ClassesAndMethods\obj\Debug\ClassesAndMethods.pdb
